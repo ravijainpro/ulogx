@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------------
 #
 # Program: initpost.sh
-# Author:  Vitor Britto
+# Author:  Ujwal kumar
 # Description: script to create an initial structure for my posts.
 #
 # Usage: ./initpost.sh [options] <post name>
@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://jekflix.rossener.com/"
+BLOG_URL="https://blog.ujwalkr.com/"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -99,7 +99,7 @@ Example:
   ./initpost.sh -c How to replace strings with sed
 Important Notes:
   - This script was created to generate new text files to my blog.
-Copyright (c) Vitor Britto
+Copyright (c) Ujwal kumar
 Licensed under the MIT license.
 ------------------------------------------------------------------------------
 EOT
