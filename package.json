@@ -1,7 +1,7 @@
 {
-  "name": "jekflix-template",
-  "version": "2.0.0",
-  "description": "A Jekyll theme inspired by Netflix",
+  "name": "UlogX",
+  "version": "1.0.0",
+  "description": "A Blog Inspired by community !",
   "main": "gulpfile.js",
   "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
   "repository": {
@@ -15,7 +15,7 @@
     "blog",
     "netlify"
   ],
-  "author": "Thiago Rossener",
+  "author": "Ujwal kumar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thiagorossener/jekflix-template/issues"
