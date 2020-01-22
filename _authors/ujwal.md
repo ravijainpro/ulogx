@@ -9,7 +9,7 @@ github_username: ujwal-k
 facebook_username: 
 twitter_username: ujwal07kumar
 instagram_username: ujwal_kashyap
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+linkedin_username: ujwalkr
+medium_username: ComingSoon
 ---
 
