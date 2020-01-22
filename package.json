@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A Blog Inspired by community !",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://ujwalkr.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://ujwalkr.com"
   },
   "keywords": [
     "jekyll",
