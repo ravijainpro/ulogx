@@ -1,14 +1,14 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
+name: Ujwal Kumar
+display_name: Ujwal kashyap
+position: Couch potato
+bio: Just a Noob.
+github_username: ujwal-k
+facebook_username: 
+twitter_username: ujwal07kumar
+instagram_username: ujwal_kashyap
 linkedin_username: thiagorossener
 medium_username: thiagorossener
 ---
