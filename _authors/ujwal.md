@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/ujwal.jpg
 name: Ujwal kumar
 display_name: Ujwal kashyap
 position: Couch potato
