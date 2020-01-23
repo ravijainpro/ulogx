@@ -1,16 +1,16 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2020-01-01 12:26:40
 layout: post
-title: Birds can fly, but this you knew already
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Pentesting using VPS [Cloud VM]
+subtitle: Migrating penetration testing on cloud VM
+description: Setting up VM, Installing Recon and Offensive tools for BB, Automating processes using Bash.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: life
 tags:
-  - life
-  - tips
-author: thiagorossener
+  - Security
+  - Hacking
+author: Ujwal kumar
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
