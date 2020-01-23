@@ -1,15 +1,15 @@
 # Site Settings
 name: UlogX
 title: UlogX | Sec | Life
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: UlogX - Made by Ujwal, Inspired by community.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - Security
+  - hacking
+  - Spirituality
+  - Travel
+email: youlogx@gmail.com
+disqus_username: disqus_g2orwcI3vb
 show_hero: true
 
 
@@ -41,7 +41,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-156697316-1"
 language: "en"
 
 
