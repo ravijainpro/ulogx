@@ -1,16 +1,16 @@
 ---
-date: 2015-09-06 12:00:00
+date: 2020-01-01 12:00:00
 layout: post
-title: Passion is dangerous, go for it!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Setup Android Environment on PC using Genymotion !
+subtitle: Android setup on emulator By Ujwal
+description: Setting up Android emulator along with rooting and interception of requests for sophisticated attacks.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
-category: work
+category: Android Security
 tags:
-  - work
-  - career
-author: thiagorossener
+  - Security
+  - Hacking
+author: Ujwal kumar
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
