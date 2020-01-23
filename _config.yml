@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: UlogX
+title: UlogX | Sec | Life
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
   - blog
@@ -15,11 +15,11 @@ show_hero: true
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: ujwal-k
 facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: ujwal07kumar
 instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: ujwalkr
 medium_username: medium_username
 
 
