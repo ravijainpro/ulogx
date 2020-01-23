@@ -1,20 +1,19 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2020-01-23 13:25:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Low hanging Bug Bounty Fruits
+subtitle: Complete list of Low hanging fruits for Web AppSec.
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  The set of Security assesments that can be performed before starting fully fledged attacks.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
-  - welcome
+  - Security
   - blog
-author: thiagorossener
+author: Ujwal kumar
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
