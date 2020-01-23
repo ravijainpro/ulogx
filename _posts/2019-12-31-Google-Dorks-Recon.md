@@ -1,17 +1,18 @@
 ---
-date: 2017-07-29 13:24:49
+date: 2019-12-31 13:24:49
 layout: post
-title: Smoke alert
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Google Dorks, Recon & OSINT
+description: Complete Hands on, recon using Google dorks and other OSINT tricks for Critical info extraction for Bug Bounty.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+subtitle: Google dorks Usage - Basics to Advanced.
+category: 'Recon'
 tags:
-  - jekyll
-  - wordpress
-  - blog
-author: thiagorossener
+  - Google 
+  - OSINT
+  - Recon
+  - Bug Bounty
+author: Ujwal kumar
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
