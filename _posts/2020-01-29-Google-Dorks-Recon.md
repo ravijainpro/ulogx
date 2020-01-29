@@ -49,20 +49,20 @@ Here is another example of that
 
 You can use following words instead of inurl :
 
--intitle:
--inurl:
--intext:
--define:
--site:
--phonebook:
--maps:
--book:
--froogle:
--info:
--movie:
--weather:
--related:
--link:
+- intitle:
+- inurl:
+- intext:
+- define:
+- site:
+- phonebook:
+- maps:
+- book:
+- froogle:
+- info:
+- movie:
+- weather:
+- related:
+- link:
 
 
 The above list is just one of few examples of usage, You could deep dive into DB and use any dork of your choice and yield results accordingly.
@@ -75,89 +75,32 @@ One of main reasons, BB Hunters use Dorks is to locate third party vendors. Orga
 
 A dork looking for a third party vendor may look like:
 
-#### site:<third party vendor> <Organization name>
+> site: <third party vendor> <Organization name>
 
-## Code
+A full Checklist of Third-party vendors goes below. 
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+- [Codepad]
 
-```js
-// Example can be run directly in your JavaScript console
+> site: codepad.co "Organization name"
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Codepad is an online compiler/Interpreter, you could find hard coded credentials here sometimes. You could look for critical Keys, Passwords, access keys, uuids, special URLs, etc.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+- [Gitlab]
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+> inurl: gitlab "Organization name"
 
-## Lists
+Gitlab, just like github is used to store source code. You could often find internal source code and other sensitive information here.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+- [Scribd]
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+> site: scribd.com "Organization name"
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Scribd generally contains books and E-books but you could sometimes expect internal files uploaded by employees that contains passwords or keys.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+- [Atlassian]
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+> site: * .atlassian.net "Organization name"
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+This dork can be used to find confluence, Jira, and other products that can contain sensitive information.
 
 
