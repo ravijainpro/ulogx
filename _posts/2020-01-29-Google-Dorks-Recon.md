@@ -75,32 +75,99 @@ One of main reasons, BB Hunters use Dorks is to locate third party vendors. Orga
 
 A dork looking for a third party vendor may look like:
 
-> site: <third party vendor> <Organization name>
+> site: < third party vendor > < Organization name >  
 
-A full Checklist of Third-party vendors goes below. 
 
-- [Codepad]
+### A full Checklist of Third-party vendors goes below. 
+
+- Codepad
 
 > site: codepad.co "Organization name"
 
 Codepad is an online compiler/Interpreter, you could find hard coded credentials here sometimes. You could look for critical Keys, Passwords, access keys, uuids, special URLs, etc.
 
-- [Gitlab]
+- Gitlab
 
 > inurl: gitlab "Organization name"
 
 Gitlab, just like github is used to store source code. You could often find internal source code and other sensitive information here.
 
-- [Scribd]
+- Scribd
 
 > site: scribd.com "Organization name"
 
 Scribd generally contains books and E-books but you could sometimes expect internal files uploaded by employees that contains passwords or keys.
 
-- [Atlassian]
+- Atlassian
 
 > site: * .atlassian.net "Organization name"
 
 This dork can be used to find confluence, Jira, and other products that can contain sensitive information.
+
+- NPM
+
+> site: npm.runkit.com "Organization name"
+> site: npmjs.com "Organization name"
+
+This can be used to find NodeJs source code used by the company.
+
+- Libraries IO
+
+> site: libraries.io "Organization name"
+
+Libraries.io is a webservice that lists software development project dependancies and alerts developers to new versions of software libraries they use.
+
+- Coggle
+
+> site: coggle.it "Organization name"
+
+Coggle is used to create MindMaps. You could find internal flow charts which may contain credentials or other crucial info.
+
+- Papaly
+
+> site: papaly.com "Organization name"
+
+This site is used to save bookmarks and links. You could sometimes find internal links, documents and credentials.
+
+- Trello
+
+> site: trello.com "Organization name"
+
+Trello is a web based kanban board. Can be used to find credentials and internal links of companies.
+
+- Prezi
+
+> site: prezi.com "Organization name"
+
+This platform is used for presentations, could contain internal links and possible credentials.
+
+- JSdeliver
+
+> site: jsdeliver.net "Organization name"
+
+Content division network (CDN) for NPM & Github.
+
+- Pastebin
+
+> site: pastebin.com "Organization name"
+
+Could contain shared critical information. Hackers anonymously use this to share Information. Do look into other Bins too.
+
+- Repl
+
+> Site: repl.it "Organization name"
+
+Repl is an online compiler. You could find hardcoded creds in user scripts. This contains really great information at times. Do not ignore it.
+
+- Gitter
+
+> site: gitter.im "Organization name"
+
+Gitter is an open sourced messaging platform. You could sometimes get into private messages containing credentials, internal links, and other information.
+
+**It would be great if Readers could come up with suggestions (In comments below) to add up to the list, also if anyone could think of automating the above search process. Alongside, Developers can make sure they don't forget to clear up creds after usage.**
+
+### Thank you :>
+
 
 
