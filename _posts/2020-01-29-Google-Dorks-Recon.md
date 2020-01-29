@@ -29,18 +29,41 @@ Here's the official link of Google Hacking Database (GHDB)
 
 If you find a new unique way to Dork searches, you could get your own Dork published as well. Adds to your work and benifits the overall database.
 
-## Inline HTML elements
+## Formula of Google Dorks
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Dorks : They are like search criteria in which a search engine returns results related to your dork.
+The process can be a little time consuming, but the outcome will be worth it after learning on how to use dorks.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+# Basic Formula of dork,
 
-Most of these elements are styled by browsers with few modifications on our part.
+"inurl:."domain"/"dorks" "
+
+So you would normally understand it like this:
+"inurl" = input URL
+"domain" = your desired domain. For eg, .gov, or .edu or so on, Based On target specification.
+"dorks" = The dork of your choice
+
+Here is another example of that
+
+You can use following words instead of inurl :
+
+intitle:
+inurl:
+intext:
+define:
+site:
+phonebook:
+maps:
+book:
+froogle:
+info:
+movie:
+weather:
+related:
+link:
+
+
+The above list is just one of few examples of usage, You could deep dive into DB and use any dork of your choice and yield results accordingly.
 
 # Heading 1
 
