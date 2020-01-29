@@ -1,11 +1,11 @@
 ---
-date: 2019-12-31 13:24:49
+date: 2020-01-29 12:30:49
 layout: post
 title: Google Dorks, Recon & OSINT
 description: Complete Hands on, recon using Google dorks and other OSINT tricks for Critical info extraction for Bug Bounty.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Google dorks Usage - Basics to Advanced.
+subtitle: Google dorks Usage - Basics to Advanced For Bug Bounty.
 category: 'Recon'
 tags:
   - Google 
@@ -15,11 +15,19 @@ tags:
 author: Ujwal kumar
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Google hacking, also named Google dorking, is a computer hacking technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use. 
+These techniques are excellent in manual recon methodology to find crucial information about any organization, which might have been left out due to certain consequences.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> This method may be time consuming, but it has it's own set of results which might be extremely crucial to model threat vectors against any target being tested against.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Before I list out structural methodology for greater usage of **Google Dorking**, Here's a list of resources which you'd like to go through for greater clarity. Credits to the creators.
+
+- [Google Hacking for Penetration Testing - Elaborate video](https://www.youtube.com/watch?v=cFOBUYaxdWI)
+
+Here's the official link of Google Hacking Database (GHDB)
+- [GHDB](https://www.exploit-db.com/google-hacking-database)
+
+If you find a new unique way to Dork searches, you could get your own Dork published as well. Adds to your work and benifits the overall database.
 
 ## Inline HTML elements
 
