@@ -29,51 +29,53 @@ Here's the official link of Google Hacking Database (GHDB)
 
 If you find a new unique way to Dork searches, you could get your own Dork published as well. Adds to your work and benifits the overall database.
 
-## Formula of Google Dorks
+# Formula of Google Dorks
 
 Dorks : They are like search criteria in which a search engine returns results related to your dork.
 The process can be a little time consuming, but the outcome will be worth it after learning on how to use dorks.
 
-# Basic Formula of dork,
+## Basic Formula of dork
 
 "inurl:."domain"/"dorks" "
 
 So you would normally understand it like this:
 "inurl" = input URL
+
 "domain" = your desired domain. For eg, .gov, or .edu or so on, Based On target specification.
+
 "dorks" = The dork of your choice
 
 Here is another example of that
 
 You can use following words instead of inurl :
 
-intitle:
-inurl:
-intext:
-define:
-site:
-phonebook:
-maps:
-book:
-froogle:
-info:
-movie:
-weather:
-related:
-link:
+-intitle:
+-inurl:
+-intext:
+-define:
+-site:
+-phonebook:
+-maps:
+-book:
+-froogle:
+-info:
+-movie:
+-weather:
+-related:
+-link:
 
 
 The above list is just one of few examples of usage, You could deep dive into DB and use any dork of your choice and yield results accordingly.
 
-# Heading 1
+# Mandatory List to check
 
-## Heading 2
+It is important to understand that Google dorks aren't just limited to google for that matter, Dorks works on large variety of search engines such as Bing, Duck Duck Go, AOL and Yahoo.
 
-### Heading 3
+One of main reasons, BB Hunters use Dorks is to locate third party vendors. Organizations and companies use sites such as Pastebin, Jira, Github, Trello, Coggle and more in their daily operations. There would be several instances where hard-coded credentials would be typically stored on a public platform as such.
 
-#### Heading 4
+A dork looking for a third party vendor may look like:
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+#### site:<third party vendor> <Organization name>
 
 ## Code
 
