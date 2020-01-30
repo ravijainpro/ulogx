@@ -54,13 +54,12 @@
                         {% endfor %}
                     </ul>
                     <form action="https://getsimpleform.com/messages?form_api_token=c359836575e1e9749f3a5d1d012ddaaf" method="post">
-                        <li class="contact-li">
+                        <hr>
                             <br>
-                            <h5> Subscribe? </h5>
-                            <br>
+                            <h3> Subscribe? </h3>
                             <input type="email" placeholder="Your email" id="email"/>
                             <input type="submit" value="Subscribe" id="submit"/>
-                        </li>
+                        <hr>
                         <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
                         <input type="hidden" name='redirect_to' value="{{ site.url }}{{site.baseurl}}/subscribe-thanks.html"/>
                     </form>
