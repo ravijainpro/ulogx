@@ -2,6 +2,13 @@
   <li>
     <a href="{{ site.url }}{{site.baseurl}}/">Home</a>
   </li>
+  {% for page in site.pages %}
+    {% if page.menu %}
+      <li>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
   <li>
     <a href="https://training.ulogx.com">Learn - Trainings</a>
   </li>
@@ -11,13 +18,6 @@
   <li>
     <a href="https://security.ulogx.com">Secure with us!</a>
   </li>
-  {% for page in site.pages %}
-    {% if page.menu %}
-      <li>
-        <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-      </li>
-    {% endif %}
-  {% endfor %}
   {% if site.email %}
     <li>
       <a href="{{ site.url }}{{site.baseurl}}/contact/">Contact</a>
