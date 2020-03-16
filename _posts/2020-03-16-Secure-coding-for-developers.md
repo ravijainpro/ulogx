@@ -99,6 +99,24 @@ As developers, it is Inevitable to use third party Libraries, Codes and other Pr
 
 ### 6) Do not Cache Sensitive page Data
 
+pages containing possible sensitive informations (e.g. a password parameter) could be potentially cached. Even in secure SSL channels, sensitive data could be stored by intermediary proxies and SSL terminators. To prevent this, a Cache-Control header should be specified.
+Prevent caching by adding "Cache Control: No-store" and "Pragma: no-cache" to the HTTP response header.
+
+### 7) Sensitive Data should never be stored in URL parameters.
+
+Take all necessary steps to not store any information in URL parameters. For Eg, Information like Account-Id, API Key, Passwords or other Metadata could lead to multiple vulnerabilities.
+
+### 8) File Uploads to be dealt with utmost care
+
+File uploads could be trivial and the vulnerabilities related to id could be really critical, can even lead to Remote code Execution (RCE) on your servers by attackers in case of an attack. 
+
+When the file is uploaded to web, it's suggested to rename the file on storage. For example, the uploaded filename is test.JPG, rename it to JAI1287uaisdjhf.JPG with a random file name. The purpose of doing it to prevent the risks of direct file access and ambiguous filename to evalide the filter, such as test.jpg;.asp or /../../../../../test.jpg.
+
+Ensure uploaded images are served with the correct content-type (e.g. image/jpeg, application/x-xpinstall)
+
+The file path should not be able to specify by client side. It's decided by server side.
+
+### 9) Sensitive data to be stored in Secure Cookies Only
 
 
 
