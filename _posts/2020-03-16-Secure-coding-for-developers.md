@@ -14,7 +14,11 @@ tags:
 author: Ujwal kumar
 ---
 
-# Coming Soon
+While there are new Platforms, Applications and Softwares coming up every single day, Security is top-of-mind for most people working with technology. Over the years, there has been increasing awareness about data breaches, Cyber attacks and what not. Developers now don't just require to enhance their coding to obtain higher accuracy, optimization and speed, they need to work upon most crucial aspect, **Security**. It has become extremely important to have the "know-how" of Secure Coding. Through this post, I'll be covering principles by which you could enhance your secure coding skills to create more robust & Trust worthy software's in future. 
+
+Here's a list of Rules which are highly reccommended while you code:
+
+* Input Validation of all types of Input
 
 
 
