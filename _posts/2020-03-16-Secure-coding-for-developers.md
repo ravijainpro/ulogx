@@ -119,24 +119,27 @@ The file path should not be able to specify by client side. It's decided by serv
 ### 9) Sensitive data to be stored in Secure Cookies Only
  Important to use all the available security features of Cookies, Including "Secure" and "HTTP only" flags, to ensure that critical data doesn't get snooped or accessed by attackers. Often cookies carry session information and authentication information, it is important that the entire transmission takes place in a secure manner.
  
- #### 10) Use Authorization & Authentication features of your framework
+ ### 10) Use Authorization & Authentication features of your framework
+ 
  Do not opt to write these features on your own, It creates issues with Identity management, Authorization management and ensure that you have Single Sign on (SSO) and Multi factor Authentication enabled (MFA) for critical features.
  
- #### 11) Never Log Sensitive or PII Information
+ ### 11) Never Log Sensitive or PII Information
  
  All errors and Issues should be alerted upon and importantly, Error and Exceptional Handling should be robust, because these small loopholes with say, extreme values, could cause something like Application level DOS attacks.
  
- #### 12) Keep All Data in your database Encrypted with a strong encryption
+ ### 12) Keep All Data in your database Encrypted with a strong encryption
+ 
  Usage of Strong standard Encryption like AES would be helpful to keep data safe even after a breach takes place. Never save your data in a raw format.
  
- #### 13) Keep all framework dependancies Up-to Date.
+ ### 13) Keep all framework dependancies Up-to Date.
+ 
  Doing this helps in escaping newly arised vulnerabilities apart from other feature benifits.
  
- #### 14) Implement Security Headers to Prevent vulnerabilities
+ ### 14) Implement Security Headers to Prevent vulnerabilities
  
  You could refer to [GeekFlare article](https://geekflare.com/http-header-implementation/) for elaborate Information regarding the topic.
  
- #### 15) Https Only Always along with Industry standard Algorithms.
+ ### 15) Https Only Always along with Industry standard Algorithms.
  
  ***
  
