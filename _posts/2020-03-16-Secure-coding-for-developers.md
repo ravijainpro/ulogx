@@ -57,6 +57,36 @@ Any output you present either visually or within a document should always be enc
 ### 3) Use Parameterized Queries always.
 
 **Never Ever Use Inline SQL Queries, Ever**
+SQL databases are commonly used to store data. For example - your application could store user profile information in a database. You should never create inline SQL or other database queries in your code using raw user input and send it **directly** to the database. This behavior is a recipe for disaster, as we saw above.
+
+For example - **do not** create code like the following inline SQL example:
+```c#
+// The given example takes input and sends it directly to Database within the same line without validating it.
+
+string userName = Request.QueryString["username"]; // receive input from the user BEWARE!
+...
+string query = "SELECT *  FROM  [dbo].[users] WHERE userName = '" + userName + "'";
+
+```
+
+Here we concatenate text strings together to create the query, taking the input from the user and generating a dynamic SQL query to look up the user. Again, if a malicious user realized we were doing this, or just tried different input styles to see if there was a vulnerability, we could end up with a major disaster. Instead, use parameterized SQL statements or stored procedures such as this:
+
+```SQL
+// With this method you can invoke the procedure from your code safely, passing it the "userName" string without worrying about it being treated as part of the SQL statement.
+
+-- Lookup a user
+CREATE PROCEDURE sp_findUser
+(
+@UserName varchar(50)
+)
+
+SELECT *  FROM  [dbo].[users] WHERE userName = @UserName
+
+```
+
+Always try to used Stored procedures instead of inline statements. Even if an attacker tries to do something malicious, it will be regarded as a string variable and will not act upon, to create a backend disaster.
+
+### 4) Always Store Secrets in Key Vault
 
 
 
