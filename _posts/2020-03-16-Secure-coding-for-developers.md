@@ -88,6 +88,17 @@ Always try to used Stored procedures instead of inline statements. Even if an at
 
 ### 4) Always Store Secrets in Key Vault
 
+Storing confidential items like **connection strings, API Keys, security tokens, certificates and passwords** in your code is just inviting someone to take them and use them for something other than what you intended them for. Even storing this sort of data in your web configuration is a bad idea - you are essentially allowing anyone who has access to the source code or web server access to your private data.
+You could use something like **Azure Key Vault** for this purpose. It's a centralized cloud service for storing application secrets. Key Vault keeps your confidential data safe by keeping application secrets in a single central location and providing secure access, permissions control, and access logging.
+
+Secrets are stored in individual vaults, each with their own configuration and security policies to control access. You can then get to your data through a REST API, or through a client SDK available for most languages.
+
+### 5) Careful Usage of 3rd party resources & Codes
+
+As developers, it is Inevitable to use third party Libraries, Codes and other Pre-work. The biggest issues coming with this is, this might lead to security issues despite "No Mistake" by us as developers, but the vulnerability may arise due to code written by someone else which we might not even be aware of. It is so critical that for years together, Usage of Vulnerable compontents has featured at #9 in the OWASP Vulnerability risk. It is important to verify for known vulnerabilities in the codes we re-use or plugins we use. This could be done by Looking for existing CVEs (Repo maintained by Mitre) or doing Static code analysis by multiple freely available tools for possible vulnerabilities. It is important to understand that it could always contain false positives and vulnerabilities might arise later on, so it is always suggested to remain updated and keep patching for fixes as new vulnerabilities arise with time. It is always reccomended to use least possible third party resources on which we don't have necessariy control on.
+
+### 6) Do not Cache Sensitive page Data
+
 
 
 
