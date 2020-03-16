@@ -142,7 +142,7 @@ The file path should not be able to specify by client side. It's decided by serv
  
  Thank you for reading. Any Suggessions for Improvement are welcome.
  
- **For In-Depth Offline/Online Training of the topic or any other Information, please drop an email to : admin@ulogx.com
+ **For In-Depth Offline/Online Training of the topic or any other Information, please drop an email to : admin@ulogx.com**
 
 
 
