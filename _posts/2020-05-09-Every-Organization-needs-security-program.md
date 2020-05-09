@@ -25,7 +25,21 @@ This is what a bug bounty program is about: Ethical hackers help businesses dete
 
 Unlike traditional penetration testing services that generate a culture of fear and meeting compliance requirements, bug bounties are about creating a culture of openness, transparency, and responsibility. Even if your company doesn't offer bug bounties, you need to establish a vulnerability disclosure policy as soon as possible.
 
+## Walking through the process?
 
+* Setting up Program & Policy.
+* Triage Bug reports.
+* Fixing the bugs.
+
+Spending little time and resources on these programs can help you save from tremendous future hassles and breaches.
+
+***
+
+**As an announcement, We at [Chillitray Technologies](https://chillitray.com) are setting up complete Responsible Disclosure program for any Organization for FREE of cost until Corona virus remains a threat on humanity. You can take a look at example [RVDP Program setup](https://rvdp.chillitray.com) here. Additionally, any donations you make for our work, would be fully donated to Poor Families of blue collared workers from NGO who have been badly hit by the pandemic, as a Noble Cause.**
+
+For additional information you can drop an email to: [contact@chillitray.com](mailto:contact@chillitray.com) and we'd get back.
+
+Thanks for reading. :)
 
 
 
