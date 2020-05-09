@@ -1,5 +1,5 @@
 ---
-date: 2020-15-09 12:26:40
+date: 2020-05-09 12:26:40
 layout: post
 title: Why Every Organization requires a Bug Bounty Program
 subtitle: Every Organization Must have a security policy & Program
