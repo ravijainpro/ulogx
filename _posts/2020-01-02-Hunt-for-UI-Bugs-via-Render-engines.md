@@ -4,9 +4,9 @@ layout: post
 title: Hunt for UI bugs due to WebRender
 subtitle: Hunt from Home, Mozilla karnataka! UI Bug Hunting
 description: WebRenders vary due to which graphical bugs arise. Here we'd cover about method to hunt these bugs and contribute to mozilla
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+image: https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/webrender.png
+optimized_image: https://raw.githubusercontent.com/ujwalpro/ujwalpro.github.io/master/assets/img/blog/webrender.png
+category: Non-Security
 tags:
   - Non-security
   - UI-Bugs
