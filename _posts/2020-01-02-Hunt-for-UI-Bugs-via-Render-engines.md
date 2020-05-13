@@ -30,6 +30,8 @@ While Google, Opera and their variants use <b>blink</b> as their rendering engin
 
 #### Here are steps below following which you could contribute:
 
+join the Event on 16th May,2020 from 5:30 PM IST to 6:30 PM IST via this [link](https://meet.google.com/rrc-hfrr-imq)
+
 * Initially you would have to decide the website in which you'll perform the test. [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQs8UGk9GkPX-GZIS3887EnQTymYJ-eHouGZn4MatN110ZRSykEeKutiDW04rAXaea-sIO_CYoZX2FS/pubhtml) is a list of websites where you can find bugs or else you can find it on any website of your choice.
 
 * The next step is to create a fresh profile with no add-ons installed before you begin your testing. You can learn how to create a fresh profile [here](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles?redirectlocale=en-US&redirectslug=profile-manager-create-and-remove-firefox-profiles). It would be suggestive to use [Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly) or [Firefox Beta](https://www.mozilla.org/en-US/firefox/channel/desktop/#beta) in order to carry out bug hunting.
