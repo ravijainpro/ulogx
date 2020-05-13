@@ -27,9 +27,6 @@ The rendering engine has a very important job as it displays what you see on you
 
 While Google, Opera and their variants use <b>blink</b> as their rendering engine which accounts 43% of usage, whilst Internet explorer uses <b>Trident</b>(25.8%>, Firefox and it's variants uses <b>Gecko</b>(18.22%), whereas Safari uses <b>Webkit</b>. [source](https://en.wikipedia.org/wiki/Browser_engine)
 
-## How could you Contribute?
-
-Mozilla karnataka is organizing [Hunt From Home phase 2](https://community.mozilla.org/campaigns/hunt-from-home-phase-2/) on So-So-SoSo and you could join the workshop using this [link](https://blog.glugmvit.com)
 
 #### Here are steps below following which you could contribute:
 
@@ -41,7 +38,6 @@ Mozilla karnataka is organizing [Hunt From Home phase 2](https://community.mozil
 
 * If you come across a bug or an issue you need to test whether the same bug appears in another non-Firefox browser. If you do not encounter with the same problem in any other browser you've found a bug that can be reported. Well done!
 
-* Lastly you need to report the bug by filling out this [form](https://webcompat.com/issues/new?label=type-hunt-from-home). You need to be elaborative about the bug you've discovered including all the necessary steps to demonstrate the bug. If you're having a [Github](https://github.com/) account you can report issues with that so that you can answer the follow-up questions just in case.
+* Lastly you need to report the bug by filling out this [form](https://webcompat.com/issues/new?label=type-hunt-from-home). You need to be elaborative about the bug you've discovered including all the necessary steps to demonstrate the bug. If you're having a [Github](https://github.com/) account you can report issues with that so that you can answer the follow-up questions just in case. Happy hunting!
 
-
-
+This post was authored by [Ujwal Kumar](https://www.linkedin.com/in/ujwalkr/) and [Shresth Singh ](https://www.linkedin.com/in/shresth-singh-7aa062175/). For any queries you can also contact  [Ravi Jain](https://www.linkedin.com/in/ravijainpro/).
