@@ -27,6 +27,18 @@ The rendering engine has a very important job as it displays what you see on you
 
 While Google, Opera and their variants use <b>blink</b> as their rendering engine which accounts 43% of usage, whilst Internet explorer uses <b>Trident</b>(25.8%>, Firefox and it's variants uses <b>Gecko</b>(18.22%), whereas Safari uses <b>Webkit</b>. [source](https://en.wikipedia.org/wiki/Browser_engine)
 
+## How could you Contribute?
+
+Mozilla karnataka is organizing [Hunt From Home phase 2](https://community.mozilla.org/campaigns/hunt-from-home-phase-2/) on So-So-SoSo and you could join the workshop using this [link](https://blog.glugmvit.com)
+
+#### Here are steps below following which you could contribute
+
+*
+*
+*
+*
+*
+
 
 
 
