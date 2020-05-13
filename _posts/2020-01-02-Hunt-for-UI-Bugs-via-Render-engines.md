@@ -23,6 +23,8 @@ Before we go ahead, you'd require to understand what is [Rendering Engine](https
 
 It takes HTML code and interprets it into what you see visually. For instance, a tag would be interpreted by the rendering engine as a set of instructions to make the text inside of the element <b>bold</b>
 
+The rendering engine has a very important job as it displays what you see on your screen. It communicates with the networking layer of the browser to grab HTML code and other items passed from a remote server.
+
 
 
 
