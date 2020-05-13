@@ -14,7 +14,9 @@ tags:
 author: Ujwal kumar
 ---
 
-# Coming Soon
+Every developer would agree to the fact that, your code is Incomplete if you never encountered bugs. Irrespective of when it would've arised, the satisfaction you get after resolving them is unbeatable, as it helps you move towards "Perfection" or atleast help you get better and design an experience for your user.
+
+It's important that we celebrate these bugs and embrace the positive change they bring in us eventually. In this work, we would focus on UI bugs and the methodology which you could use to do your part of contribution.
 
 
 
