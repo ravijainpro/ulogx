@@ -25,6 +25,8 @@ It takes HTML code and interprets it into what you see visually. For instance, a
 
 The rendering engine has a very important job as it displays what you see on your screen. It communicates with the networking layer of the browser to grab HTML code and other items passed from a remote server.
 
+While Google, Opera and their variants use <b>blink</b> as their rendering engine which accounts 43% of usage, whilst Internet explorer uses <b>Trident</b>(25.8%>, Firefox and it's variants uses <b>Gecko</b>(18.22%), whereas Safari uses <b>Webkit</b>. [source](https://en.wikipedia.org/wiki/Browser_engine)
+
 
 
 
