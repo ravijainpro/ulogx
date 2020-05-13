@@ -31,20 +31,17 @@ While Google, Opera and their variants use <b>blink</b> as their rendering engin
 
 Mozilla karnataka is organizing [Hunt From Home phase 2](https://community.mozilla.org/campaigns/hunt-from-home-phase-2/) on So-So-SoSo and you could join the workshop using this [link](https://blog.glugmvit.com)
 
-#### Here are steps below following which you could contribute
+#### Here are steps below following which you could contribute:
 
-*
-*
-*
-*
-*
+* Initially you would have to decide the website in which you'll perform the test. [Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQs8UGk9GkPX-GZIS3887EnQTymYJ-eHouGZn4MatN110ZRSykEeKutiDW04rAXaea-sIO_CYoZX2FS/pubhtml) is a list of websites where you can find bugs or else you can find it on any website of your choice.
 
+* The next step is to create a fresh profile with no add-ons installed before you begin your testing. You can learn how to create a fresh profile [here](https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles?redirectlocale=en-US&redirectslug=profile-manager-create-and-remove-firefox-profiles). It would be suggestive to use [Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly) or [Firefox Beta](https://www.mozilla.org/en-US/firefox/channel/desktop/#beta) in order to carry out bug hunting.
 
+* Let's get started with finding bugs, for that open the website of your choice from step 1 and start looking for a bug. What is the bug that we're looking for you may ask. It could be anything like a button that's not working, an image is not loading, a video doesn't play or a desktop page appears as a mobile page.
 
+* If you come across a bug or an issue you need to test whether the same bug appears in another non-Firefox browser. If you do not encounter with the same problem in any other browser you've found a bug that can be reported. Well done!
 
-
-
-
+* Lastly you need to report the bug by filling out this [form](https://webcompat.com/issues/new?label=type-hunt-from-home). You need to be elaborative about the bug you've discovered including all the necessary steps to demonstrate the bug. If you're having a [Github](https://github.com/) account you can report issues with that so that you can answer the follow-up questions just in case.
 
 
 
