@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/pranjal.jpg
+photo: /assets/img/uploads/pranjal.jpeg
 name: Pranjal jain
 display_name: Pranjal jain
 position: Co-Founder
