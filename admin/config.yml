@@ -312,7 +312,7 @@ collections:
           - label: "URL"
             name: "url"
             widget: "string"
-            hint: "The base hostname and protocol for your site, e.g. https://ujwalkr.com"
+            hint: "The base hostname and protocol for your site, e.g. https://chillitray.com"
           - label: "Google Analytics ID"
             name: "google_analytics"
             widget: "string"

@@ -1,7 +1,7 @@
 # Site Settings
 name: UlogX
-title: UlogX | Sec | Life
-description: UlogX - Made by Ujwal, Inspired by community.
+title: UlogX | Tech | Sec | Dev
+description: UlogX - Made by chillitray, Inspired by community.
 tags:
   - blog
   - Security
@@ -15,11 +15,11 @@ show_hero: true
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: ujwal-k
+github_username: chillitray
 facebook_username: facebook_username
-twitter_username: ujwal07kumar
-instagram_username: ujwal._.kashyap
-linkedin_username: ujwalkr
+twitter_username: chillitray
+instagram_username: chillitray
+linkedin_username: chillitray
 medium_username: medium_username
 
 
