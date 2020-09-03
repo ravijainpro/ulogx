@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/ravi.jpg
+photo: /assets/img/uploads/chillitray.png
 name: Chillitray
 display_name: Chillitray Technologies
 position: Parent Organization
