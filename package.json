@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A Blog Inspired by community !",
   "main": "gulpfile.js",
-  "homepage": "https://ujwalkr.com",
+  "homepage": "https://chillitray.com",
   "repository": {
     "type": "git",
-    "url": "https://ujwalkr.com"
+    "url": "https://chillitray.com"
   },
   "keywords": [
     "jekyll",
@@ -18,7 +18,7 @@
   "author": "Ujwal kumar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://chillitray.com/contact.html"
   },
   "devDependencies": {
     "autoprefixer-stylus": "^0.14.0",
