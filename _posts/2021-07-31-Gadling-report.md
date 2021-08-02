@@ -54,11 +54,11 @@ Looking at all the contents of the malware, it seems more like a cyber espionage
 
 Further investigating the hosting and the no-IP services, logs from ISP, the local router logs if it's logging packets, and the email logs could lead to identifying the attacker.
 
+*For Cyber security consultancy & services, reach us out at [MrPentester.com](https://mrpentester.com "MrPentester")*
+
 
 Venkatesh L
-
 CISSP,OSCP,CEH
-
 Mr. Pentester
 
 
