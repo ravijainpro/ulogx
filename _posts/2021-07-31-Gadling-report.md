@@ -57,9 +57,9 @@ Further investigating the hosting and the no-IP services, logs from ISP, the loc
 *For Cyber security consultancy & services, reach us out at [MrPentester.com](https://mrpentester.com "MrPentester")*
 
 
-Venkatesh L
-CISSP,OSCP,CEH
-Mr. Pentester
+Venkatesh L  
+CISSP,OSCP,CEH  
+Mr. Pentester  
 
 
 
