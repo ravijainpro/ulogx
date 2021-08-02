@@ -15,7 +15,7 @@ tags:
   - mountains
   - travel
   - adventure
-author: thiagorossener
+author: Ujwal kumar
 paginate: true
 ---
 # Coming Soon
